@@ -35,9 +35,6 @@ Este projeto analisa a relação entre **o gênero musical, o BPM e o sentimento
 │   ├── pca_visualizacao.png      # Gráfico de PCA
 │── 📂 requirements               # Dependências do projeto
 │   ├── requirements.txt          # Lista de pacotes necessários
-│── 📂 models                     # Modelos treinados
-│   ├── logistic_regression.pkl   # Modelo de Regressão Logística
-│   ├── random_forest.pkl         # Modelo Random Forest
 ```
 
 ---

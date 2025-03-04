@@ -63,7 +63,9 @@ jupyter notebook
 
 ## 📊 Resultados e Insights
 ✅ **Músicas com BPM mais alto tendem a sentimentos positivos (Happy, Motivated).**
+
 ✅ **Gêneros como Clássico estão associados a sentimentos relaxantes.**
+
 ✅ **Modelos de machine learning (Regressão Logística e Random Forest) apresentaram 100% de acurácia, indicando uma boa separabilidade entre classes.**
 
 ---

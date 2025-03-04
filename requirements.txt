@@ -1,1 +1,43 @@
+# 📜 Arquivo `requirements.txt`
+
+Este arquivo contém a lista de bibliotecas necessárias para executar o projeto. Para garantir a compatibilidade, recomendamos instalar os pacotes utilizando:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 📦 Dependências
+
+```
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+```
+
+---
+
+## 🚀 Como instalar
+1️⃣ **Criar um ambiente virtual (opcional, mas recomendado):**
+```bash
+python -m venv venv
+source venv/bin/activate  # No Windows: venv\Scripts\activate
+```
+
+2️⃣ **Instalar as dependências:**
+```bash
+pip install -r requirements.txt
+```
+
+3️⃣ **Verificar se a instalação foi concluída:**
+```bash
+pip freeze
+```
+
+Caso precise adicionar mais bibliotecas, basta incluí-las neste arquivo e rodar o comando de instalação novamente. 🚀
+
 
